@@ -1,0 +1,86 @@
+Unique countries: 84
+Countries:
+ - United States
+ - Canada
+ - Mexico
+ - Brazil
+ - Argentina
+ - Colombia
+ - Chile
+ - Peru
+ - Venezuela
+ - Ecuador
+ - United Kingdom
+ - Germany
+ - France
+ - Italy
+ - Spain
+ - Netherlands
+ - Belgium
+ - Sweden
+ - Norway
+ - Denmark
+ - Finland
+ - Poland
+ - Portugal
+ - Greece
+ - Switzerland
+ - Austria
+ - Ireland
+ - Hungary
+ - Czech Republic
+ - Romania
+ - Russia
+ - Ukraine
+ - Turkey
+ - China
+ - Japan
+ - South Korea
+ - India
+ - Indonesia
+ - Malaysia
+ - Thailand
+ - Vietnam
+ - Philippines
+ - Bangladesh
+ - Pakistan
+ - Sri Lanka
+ - Nepal
+ - Myanmar
+ - Singapore
+ - Hong Kong
+ - Taiwan
+ - Australia
+ - New Zealand
+ - Saudi Arabia
+ - UAE
+ - Kuwait
+ - Qatar
+ - Iran
+ - Iraq
+ - Israel
+ - Jordan
+ - Lebanon
+ - Egypt
+ - South Africa
+ - Nigeria
+ - Kenya
+ - Ethiopia
+ - Ghana
+ - Tanzania
+ - Morocco
+ - Algeria
+ - Libya
+ - Tunisia
+ - Angola
+ - Mozambique
+ - Zambia
+ - Zimbabwe
+ - Uganda
+ - Cameroon
+ - Senegal
+ - Ivory Coast
+ - Sudan
+ - Botswana
+ - Namibia
+ - Rwanda
