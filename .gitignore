@@ -1,3 +1,7 @@
 .venv
 __pycache__/
-data
+export
+notes.md
+*.7z
+data/
+*.csv

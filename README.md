@@ -1,4 +1,4 @@
-A preprocessing step I did for a postgraduate module. No data folder because some of the data are big.
+A preprocessing step I did for a postgraduate module. ~~No data folder because some of the data are big.~~ Maybe no data and export lol
 
 Data credits:
 
